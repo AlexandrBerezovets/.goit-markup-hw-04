@@ -137,15 +137,6 @@ img {
     color: var(--accent-color);
 }
 
-.site-nav .link.current::after {
-    display: block;
-    content: '';
-    height: 4px;
-    border-radius: 2px;
-    background-color: currentColor;
-    gap: 20px;
-}
-
 .contacts {
     display: flex;
 }
